@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Easy Quiz</string>
+    <string name="quiz_name">Easy Quiz</string>
+    <string name="q1header">Question 1</string>
+    <string name="q2header">Question 2</string>
+    <string name="q3header">Question 3</string>
+    <string name="q4header">Question 4</string>
+    <string name="q5header">Question 5</string>
+    <string name="quiz1">What is the name of the tallest waterfall in the world?</string>
+    <string name="quiz2">Which of the following is the tallest building in the world as of 2018?</string>
+    <string name="quiz3">Which is the most highest active volcano in the world?</string>
+    <string name="quiz4">Which country has the most volcanoes in East Asia?</string>
+    <string name="quiz5">Which two are the largest subtropical deserts in the world?</string>
+    <string name="quiz1a1">Victoria Falls</string>
+    <string name="quiz1a2">Angel Falls</string>
+    <string name="quiz1a3">Niagara Falls</string>
+    <string name="quiz1a4">Yosemite Falls</string>
+    <string name="quiz2a1">Burj Khalifa, Dubai</string>
+    <string name="quiz2a2">Shanghai Tower, China</string>
+    <string name="quiz2a3">Lotte World Tower, South Korea</string>
+    <string name="quiz2a4">One World Trade Center, U.S.</string>
+    <string name="quiz3a1">Mt Etna, Italy</string>
+    <string name="quiz3a2">Ojos del Salado, Chile/Argentina border</string>
+    <string name="quiz3a3">Paricutin, Mexico</string>
+    <string name="quiz3a4">Mt Taal, Philippines</string>
+    <string name="quiz4answer">japan</string>
+    <string name="quiz5a1">Gobi</string>
+    <string name="quiz5a2">Arabian</string>
+    <string name="quiz5a3">Sahara</string>
+    <string name="quiz5a4">Kalahari</string>
+    <string name="Submit">Show me my score!</string>
+</resources>
